@@ -1,0 +1,31 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Project-specific files
+*.iml
+
+# Directory for Maven dependencies (if using Maven)
+target/
+
+# Directory for Gradle dependencies (if using Gradle)
+.gradle/
+
+# Java bytecode and build directories
+build/
+
+# Eclipse settings
+.settings/
+
+# IntelliJ IDEA settings
+out/
+
+# OS generated files
+.DS_Store
+Thumbs.db
